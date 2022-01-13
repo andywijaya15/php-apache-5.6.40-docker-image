@@ -3,7 +3,7 @@ Dockerfile to build php-5.6.40-apache image with mod_rewrite on and mysql on in 
 
 Download all the files and open your terminal with docker installed.
 Here is the commands :
-1. docker -t yourimagename .
+1. docker build -t yourimagename .
 
 This for build an image from dockerfile,change imagename with whatever you want
 
